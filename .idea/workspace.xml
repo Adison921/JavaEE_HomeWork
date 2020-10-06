@@ -2,11 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="676db203-af27-4aaf-8128-910af7021451" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/src/表单+布局.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/src/表单样式.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/CB.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/Career_Builder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/images/03-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/images/03-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/images/03-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/images/03-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/images/03-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/images/03-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/images/b1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/images/b2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/images/b3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/images/b4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/images/banner3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/images/bb3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/images/完整大图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/project/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/project/image/03-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/project/image/03-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/project/image/03-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/project/image/04-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/project/image/04-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/project/image/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/project/image/QQ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/project/image/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/project/image/weibo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/project/image/weixin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/project/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01Html&amp;Css/src/表单.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,10 +59,11 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="14" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java_Web" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -45,15 +71,25 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Study\Java\JavaEE_HomeWork\01Html&amp;Css\布局美化" />
       <recent name="E:\Study\Java\JavaEE_HomeWork\01Html&amp;Css\src" />
       <recent name="E:\Study\Java\JavaEE_HomeWork\01Html&amp;Css" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.表单+布局.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="Career_Builder.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaEE_HomeWork/01Html&amp;Css/bjmh/Career_Builder.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="Hello.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaEE_HomeWork/01Html&amp;Css/Hello.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="表单+布局.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/JavaEE_HomeWork/01HTML&amp;CSS/表单+布局.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaEE_HomeWork/01Html&amp;Css/bjmh/project/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaEE_HomeWork/01Html&amp;Css/布局美化/project/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Tomcat 8.0.50" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.50" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="13">
@@ -122,10 +158,16 @@
     <list>
       <item itemvalue="JavaScript Debug.表单+布局.html" />
       <item itemvalue="JavaScript Debug.Hello.html" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.Career_Builder.html" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
       <item itemvalue="Tomcat Server.Tomcat 8.0.50" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.Career_Builder.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.Hello.html" />
       </list>
     </recent_temporary>
@@ -155,7 +197,11 @@
       <workItem from="1600950424713" duration="497000" />
       <workItem from="1600950974026" duration="1936000" />
       <workItem from="1601091459665" duration="4132000" />
-      <workItem from="1601178684685" duration="7868000" />
+      <workItem from="1601178684685" duration="10522000" />
+      <workItem from="1601792857922" duration="636000" />
+      <workItem from="1601865697110" duration="4034000" />
+      <workItem from="1601942502013" duration="5099000" />
+      <workItem from="1601994582180" duration="2662000" />
     </task>
     <servers />
   </component>
@@ -171,10 +217,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601116060129" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1600950997716">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601994728223">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600950997716" />
+    <state x="592" y="218" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601943323214" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601994728223" />
     <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1601116169421">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
