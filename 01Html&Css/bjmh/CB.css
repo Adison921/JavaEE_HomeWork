@@ -1,89 +1,130 @@
-*{
+* {
     padding: 0;
-    margin:0;
+    margin: 0;
 }
-.header{
+
+.header {
     width: 100%;
     height: 80px;
-    background-color: lightseagreen;
+    background-color: #07cbc9;
 }
-.header  img{
-    width:260px;
-    height: 58px;
-    padding-left:100px;
+
+.header img {
+    width: 260px;
+    height: 50px;
+    padding-left: 150px;
     padding-top: 10px;
 
 
 }
+
 .header .logo {
-    float: left;}
+    float: left;
+}
+
 .header .nav {
     float: right;
 }
+
 .header .nav ul {
-    margin-right: 130px;
+    margin-right: 100px;
     margin-top: 0px;
 }
-.header .nav ul li{
+
+.header .nav ul li {
     float: left;
     list-style: none;
     width: 85px;
     height: 80px;
-    line-height:80px;
-    font-size:16px ;
+    line-height: 80px;
+    font-size: 16px;
     font-weight: bolder;
-    color: dimgrey;
+    color: #ffffff;
 }
-.main .top{
+
+.main .top {
     width: 100%;
     height: 600px;
 }
+
 .main .top img {
     width: 100%;
     height: 600px;
 }
-.main .top{
-    width: 100%;
-    height: 600px;
-}
-.main .top img{
-    width: 100%;
-    height: 600px;
-}
-.main .topLayer{
+
+.main .topLayer {
     position: absolute;
-    top: 100px;
+    top: 80px;
     left: 0;
-    background-color:#000;
+    background-color: #000;
     width: 100%;
     height: 600px;
-    opacity: 0.5;
+    opacity: 0.4;
 }
-.main .topLayer-top{
+
+.main .topLayer-top {
     width: 500px;
-    height: 300px;
+    height: 100px;
     position: absolute;
-    top:400px;
+    top: 330px;
     margin-top: -150px;
-    z-index: 2;
-    right:50% ;
+    right: 50%;
     margin-right: -250px;
-}
-.main .topLayer-top .word{
-    padding-top: 100px;
-    color: #fff;
-    font-size: 45px;
-    font-weight: bolder;
     text-align: center;
-    font-family: "微软雅黑";
 }
-.footer{
+
+.main .topLayer-top .input_word {
+    /*padding-top: 2px;*/
+    /*margin-top: 35px;*/
+    margin-bottom: 25px;
+    padding-left: 2px;
+    color: darkgrey;
+    font-size: 18px;
+    font-weight: bolder;
+    font-family: "微软雅黑";
+    width: 400px;
+    height: 40px;
+    border: 2px solid rgb(128, 128, 128);
+    background-color: transparent; /*//输入框背景变成透明色*/
+
+}
+
+
+.main .topLayer-top .comments {
+    width: 390px;
+    height: 120px;
+    padding-top: 10px;
+    padding-left: 10px;
+    border: 2px solid rgb(128,128,128);
+    font-size: 18px;
+    background-color: transparent;
+    font-weight: bold;
+    color: darkgrey;
+    font-family: "微软雅黑";
+
+}
+
+.main .topLayer-top .button {
+    color: darkgrey;
+    width: 130px;
+    height: 45px;
+    font-family: "微软雅黑";
+    font-weight: bold;
+    margin-top: 25px;
+    border: 2px solid darkgrey;
+    background-color: transparent;
+    padding-top: 2px;
+
+
+}
+
+.footer {
     width: 100%;
     height: 60px;
-    background-color: lightseagreen;
+    background-color: #07cbc9;
     color: white;
     text-align: center;
     line-height: 60px;
     font-family: "微软雅黑";
-    font-size: 15px;
+    font-size: 10px;
 }
