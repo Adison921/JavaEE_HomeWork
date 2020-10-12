@@ -322,27 +322,28 @@
     height: 1000px;
 }
 .main .middle01 .picture02 img{
-    width: 350px;
+    width: 380px;
     height: 350px;
 
 }
 .main .middle01 .picture03{
-    width: 350px;
+    width: 380px;
     height: 350px;
     background-color: #07cbc9;
-    margin-left: 340px;
+    margin-left: 380px;
     margin-top: -353px;
 }
 .main .middle01 .title03{
     color: white;
     font-size: 25px;
-    margin-left: 385px;
+    margin-left: 415px;
     margin-top: -325px;
+    font-weight: bold;
 }
 .main .middle01 .comments03{
     color: white;
     font-size: 16px;
-    margin-left: 385px;
+    margin-left: 415px;
     margin-top: 20px;
     width: 300px;
 }
@@ -350,19 +351,77 @@
     color: #7D7D7F;
     font-size: 16px;
     position: absolute;
-    margin-left: 385px;
+    margin-left: 415px;
     margin-top: 20px;
     width: 300px;
 }
 .main .middle01 .button04{
     position: absolute;
     margin-top: 150px;
-    margin-left: 31%;
+    margin-left: 33.5%;
     color: #ffffff;
     width: 100px;
     height: 40px;
-    font-family: "微软雅黑";
+    font-family: "Microsoft YaHei UI Light";
     font-weight: bold;
     border: 1px solid darkgrey;
     background-color: #000000;
+}
+.main .middle01 .button04:hover{
+     background-color: coral;
+     border: none;
+    color: dimgrey;
+ }
+.main .middle01 .picture04 img{
+    width: 380px;
+    height: 350px;
+    margin-top: -120px;
+    margin-left: 740px;
+
+}
+.main .middle01 .picture05{
+    width: 380px;
+    height: 350px;
+    background-color: #07cbc9;
+    margin-left: 1121px;
+    margin-top: -353px;
+}
+.main .middle01 .title04{
+    color: white;
+    font-size: 25px;
+    margin-left: 1170px;
+    margin-top: -325px;
+    font-weight: bold;
+}
+.main .middle01 .comments05{
+    color:#ffffff;
+    font-size: 16px;
+    position: absolute;
+    margin-left: 1170px;
+    margin-top: 23px;
+    width: 300px;
+}
+.main .middle01 .comments06{
+    color:dimgrey;
+    font-size: 16px;
+
+    margin-left: 1170px;
+    margin-top:80px;
+    width: 300px;
+}
+.main .middle01 .button05{
+    position: absolute;
+    margin-top: 32px;
+    margin-left: 1270px;
+    color: #ffffff;
+    width: 100px;
+    height: 40px;
+    font-family: "Microsoft YaHei UI Light";
+    font-weight: bold;
+    border: 1px solid darkgrey;
+    background-color: #000000;
+}
+.main .middle01 .button05:hover{
+    border: none;
+    background-color: coral;
 }
