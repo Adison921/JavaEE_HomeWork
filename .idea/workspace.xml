@@ -4,7 +4,6 @@
     <list default="true" id="676db203-af27-4aaf-8128-910af7021451" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01Html&amp;Css/bjmh/CB.css" beforeDir="false" afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/CB.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01Html&amp;Css/bjmh/Career_Builder.html" beforeDir="false" afterPath="$PROJECT_DIR$/01Html&amp;Css/bjmh/Career_Builder.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="14" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java_Web" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -185,7 +184,9 @@
       <workItem from="1602327753809" duration="9916000" />
       <workItem from="1602389299540" duration="2184000" />
       <workItem from="1602489057100" duration="10688000" />
-      <workItem from="1602593330316" duration="5723000" />
+      <workItem from="1602593330316" duration="6062000" />
+      <workItem from="1602606305170" duration="1606000" />
+      <workItem from="1602659594709" duration="1297000" />
     </task>
     <servers />
   </component>
@@ -201,9 +202,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601116060129" />
-    <state x="592" y="218" key="FileChooserDialogImpl" timestamp="1602223681546">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1602659636912">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602659636912" />
     <state x="592" y="218" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602223681546" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601994728223" />
     <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1602176115379">

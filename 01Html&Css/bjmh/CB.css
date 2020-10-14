@@ -86,7 +86,7 @@
     /*margin-top: 35px;*/
     margin-bottom: 25px;
     padding-left: 2px;
-    color: pink;
+    color: ghostwhite;
     font-size: 18px;
     font-weight: bolder;
     font-family: "微软雅黑";
@@ -492,14 +492,14 @@
     width: 361px;
     height: 348px;
     margin-left: 380px;
-    margin-top: -240px;
+    margin-top: -241px;
 }
 .main .middle01 .picture08{
     width: 380px;
     height: 350px;
     background-color: #07cbc9;
     margin-left: 740px;
-    margin-top: -353px;
+    margin-top: -355px;
 }
 .main .middle01 .title06{
     color: white;
@@ -546,6 +546,6 @@
     width: 380px;
     height: 350px;
     margin-left: 1120px;
-    margin-top: -308px;
+    margin-top: -310px;
 
 }
