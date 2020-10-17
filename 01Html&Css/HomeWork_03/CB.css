@@ -575,3 +575,25 @@
     margin-top: 25px;
     color: #7D7C7F;
 }
+.main .middle02 .picture10 img{
+    width: 360px;
+    height: 270px;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+.main .middle02 .topLayer02{
+    width: 360px;
+    height: 50px;
+    margin-left: 120px;
+    margin-top: -54px;
+    background-color: #000000;
+    opacity: 0.4;
+}
+.main .middle02 .word03{
+    position: absolute;
+    color:white;
+    font-family: "Microsoft YaHei UI Light";
+    font-size: 22px;
+    margin-left: 135px;
+    margin-top: -40px;
+}
